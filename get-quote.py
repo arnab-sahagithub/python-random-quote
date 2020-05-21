@@ -1,5 +1,5 @@
 import random
-def main():
+def primary():
    print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -11,4 +11,4 @@ def main():
  # print(quotes[rnd])
 
 if __name__== "__main__":
-  main()
+  primary()
